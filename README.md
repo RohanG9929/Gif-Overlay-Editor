@@ -14,5 +14,8 @@ and a .png or .jpg background
 
 and produces an output with the Gif overlayed onto the background image
 
-<img src="https://user-images.githubusercontent.com/103215628/228932600-e7c4f114-08f1-4a4f-bab3-dbefbda282b4.gif" width=60% height=60%>
+![combined]()
+
+
+<img src="https://user-images.githubusercontent.com/103215628/228936724-57991b4f-095b-4f7d-80ce-3f5cb2d1eb6a.gif" width=60% height=60%>
 
