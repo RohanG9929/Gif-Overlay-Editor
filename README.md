@@ -4,7 +4,7 @@
  The script takes a .gif file
  
  
-<img src="https://user-images.githubusercontent.com/103215628/228932428-4b4d458b-d034-436e-9527-442c1631a04d.gif" width=70% height=70%>
+<img src="https://user-images.githubusercontent.com/103215628/228932428-4b4d458b-d034-436e-9527-442c1631a04d.gif" width=60% height=60%>
 
 and a .png or .jpg background
 
