@@ -14,6 +14,7 @@ and a .png or .jpg background
 
 and produces an output with the Gif overlayed onto the background image
 
+![combined](https://user-images.githubusercontent.com/103215628/228937393-155062d8-3b59-49b1-aa55-693c5e250c1f.gif)
 
 
 ![combined](https://user-images.githubusercontent.com/103215628/228937056-31f5ce02-3b52-49d7-a0ff-a7015a484edf.gif)
