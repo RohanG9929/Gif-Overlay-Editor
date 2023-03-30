@@ -13,9 +13,6 @@ def process_image(filename,filename2,resize=1):
 
     x,y = combine.size[0:2]
 
-    
-
-
     new = []
     for frame_num in range(original.n_frames):
         original.seek(frame_num)
@@ -30,7 +27,8 @@ def process_image(filename,filename2,resize=1):
 
         new.append(new_frame)
 
-    new[0].save('combined.gif', append_images=new[1:], save_all=True)
+    new[0].save('combined.gif', append_images=new[1:], save_all=True,loop=0)
+
 
 
 if __name__ == '__main__':
